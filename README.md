@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ericavalera
-- 👀 I’m interested in the occult, beauty and art.
+- 👀 I’m interested in the occult, beauty, and art.
 - 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
