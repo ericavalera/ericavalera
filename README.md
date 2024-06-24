@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I have a shiba inu named lola
+- ⚡ Fun fact: I have a daughter named Mia & a shiba inu named Lola.
 
 <!---
 ericavalera/ericavalera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
