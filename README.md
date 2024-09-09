@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ericavalera
 - 👀 I’m interested in the beauty and art.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Java & React.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - 😄 Pronouns: she/her
