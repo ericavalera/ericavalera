@@ -2,7 +2,6 @@
 - 👀 I’m interested in the beauty and art.
 - 🌱 I’m currently learning Python and studying React.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a daughter named Mia & a shiba inu named Lola.
 
